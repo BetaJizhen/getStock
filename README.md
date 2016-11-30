@@ -2,9 +2,9 @@
 
 ###SINA财经的数据来源分析
   
-   沪市A股：http://vip.stock.finance.sina.com.cn/mkt/#sh_a
-   深市A股：http://vip.stock.finance.sina.com.cn/mkt/#sz_a
-   创业板数据：http://vip.stock.finance.sina.com.cn/mkt/#cyb_root
+    沪市A股：http://vip.stock.finance.sina.com.cn/mkt/#sh_a
+    深市A股：http://vip.stock.finance.sina.com.cn/mkt/#sz_a
+    创业板数据：http://vip.stock.finance.sina.com.cn/mkt/#cyb_root
    
 ### 通过BS4等库抓取数据
 
